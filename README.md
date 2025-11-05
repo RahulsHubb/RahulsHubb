@@ -18,6 +18,8 @@
 
 ✨ Fun fact: I enjoy exploring **UI/UX design** and creating **real-world software simulations**.  
 
+📚 🧠 Learning:  Expanding my expertise in backend technologies — focusing on advanced Node.js and MongoDB concepts.
+
 <!---
 RahulsHubb/RahulsHubb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
