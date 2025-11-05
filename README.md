@@ -5,7 +5,7 @@
 🔧 Tech I work with:  
 - React, Redux, TypeScript, JavaScript (ES6+)  
 - Node.js, MongoDB  
-- CSS3, Tailwind, SCSS  
+- CSS3, Tailwind, SCSS, HTML
 
 🚀 Current Projects:  
 - E-commerce platform with MongoDB backend  
