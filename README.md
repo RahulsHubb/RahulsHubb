@@ -1,6 +1,6 @@
 # Hi there, I'm Rahul 👋  
 
-💻 **React Developer (4+ yrs)** | Passionate about building **responsive, scalable, and high-performance web applications**.  
+💻 **React Developer (5+ yrs)** | Passionate about building **responsive, scalable, and high-performance web applications**.  
 
 🔧 Tech I work with:  
 - React, Redux, TypeScript, JavaScript (ES6+)  
